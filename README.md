@@ -10,3 +10,8 @@ to guarantee its reliability.
 Prior to using the calculator for any critical calculations, it is advisable to consult a qualified professional to confirm the accuracy of the results.
 
 
+The code is basic and dirty, if anyone had suggestions to improve it, I am open to new suggestions and improvements to the project.
+
+Thank you in advance for your interest and participation.
+
+Enjoy!
